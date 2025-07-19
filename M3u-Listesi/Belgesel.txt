@@ -1,0 +1,57 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",Sömine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbRVJHWjXTbxmEHtduPC2ub0ExPWJ6nJHCw&usqp=CAU" group-title="Ulusal",Dmax | a
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbRVJHWjXTbxmEHtduPC2ub0ExPWJ6nJHCw&usqp=CAU" group-title="Ulusal",Dmax | a
+https://yayin2.canlitv.fun/livetv/dmax.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbRVJHWjXTbxmEHtduPC2ub0ExPWJ6nJHCw&usqp=CAU" group-title="Ulusal",Dmax | a
+https://trn03.tulix.tv/gt-dmax/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CUYdwJFcfzo3RY5c_gAN4tY_doZ6hKAax7BRK7VCODR0P1bAw-17pASKxfWqQDtKsBotgtVBXg=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Tgrt Belgesel | a
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
+#E#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CUYdwJFcfzo3RY5c_gAN4tY_doZ6hKAax7BRK7VCODR0P1bAw-17pASKxfWqQDtKsBotgtVBXg=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Tgrt Belgesel | a
+http://50.7.144.122:1935/livetv/tgrtbelgesel.stream/sec-f5-v1-a1.m3u8
+#E#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CUYdwJFcfzo3RY5c_gAN4tY_doZ6hKAax7BRK7VCODR0P1bAw-17pASKxfWqQDtKsBotgtVBXg=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Tgrt Belgesel | a
+https://yayin2.canlitv.fun/livetv/tgrtbelgesel.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CUYdwJFcfzo3RY5c_gAN4tY_doZ6hKAax7BRK7VCODR0P1bAw-17pASKxfWqQDtKsBotgtVBXg=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Tgrt Belgesel | a
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="Ulusal",Teve2 | a
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="Ulusal",Teve2 | a
+https://helga.iptv2022.com/teve_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="Ulusal",Teve2 | a
+https://yayin2.canlitv.fun/livetv/teve2.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="Ulusal",Teve2 | a
+http://50.7.144.122:1935/livetv/teve2.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1717135101102882816/0kzCiy_7_400x400.jpg" group-title="Ulusal",Teve2 | a
+https://tgn.bozztv.com/dvrfl05/gin-tv2tv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://ie.sonyrepairs.com/tlc/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://live-fi.tvkaista.net/tlc/live.m3u8?src=opengraph
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+http://50.7.144.122:1935/livetv/tlc.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://trn03.tulix.tv/gt-tlc/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://tgn.bozztv.com/trn03/gt-tlc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQwMTdf/TLC.png" group-title="1935Tv" group-title="Ulusal",Tlc | a
+https://yayin2.canlitv.fun/livetv/tlc.stream/master.m3u8
+
+
+

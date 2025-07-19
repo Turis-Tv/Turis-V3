@@ -1,0 +1,198 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",Sömine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv
+#EXTINF:0 CUID="3704" tvg-chno="null" tvg-name="Atv | b" group-title="Ulusal",Atv | b
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | a
+https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | b
+http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | c
+http://50.7.144.122:1935/livetv/atv.stream/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | d
+https://yayin2.canlitv.fun/livetv/atv.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | e
+https://c.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | f
+https://c.fulltvizle.com/aytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | g
+https://yayin2.canlitv.fun/livetv/atv.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | h
+http://50.7.144.122:1935/livetv/atv.stream/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | i
+http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-logo-35C825BDBB-seeklogo.com.png" group-title="Ulusal",Atv | y
+https://tgn.bozztv.com/trn03/gt-atv-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUk0AdkpKqBSM6b7cfk05DZo4evBHDjjBbQ&s" group-title="Ulusal",Atv eu
+https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUk0AdkpKqBSM6b7cfk05DZo4evBHDjjBbQ&s" group-title="Ulusal",Atv eu | a
+https://trn03.tulix.tv/gt-atvavrupa/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D
+https://trn03.tulix.tv/gt-kanald/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | a
+http://116.202.238.88/KANALD_TR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | b
+http://50.7.144.122:1935/livetv/kanald.stream/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | c
+https://yayin2.canlitv.fun/livetv/kanald.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | d
+https://c.fulltvizle.com/kanald/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | e
+https://helga.iptv2022.com/kanal_d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-49EC3A6D7F-seeklogo.com.png" group-title="Ulusal",Kanal D | f
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQxNzVf/Euro%20D.png" group-title="Ulusal",Euro D | f
+https://tgn.bozztv.com/dvrfl05/gin-eurod/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/NzJfNDYwMjQxNzVf/Euro%20D.png" group-title="Ulusal",Euro D | f
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+https://trn03.tulix.tv/gt-show-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+https://tgn.bozztv.com/trn03/gt-show-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+http://116.202.238.88/SHOWTV_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+http://50.7.144.122:1935/livetv/showtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+https://yayin2.canlitv.fun/livetv/showtv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+https://c.fulltvizle.com/show/index.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show Tv | g
+http://66.160.192.241/showtv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show türk | g
+https://tgn.bozztv.com/dvrfl05/gin-showtvturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tutusmedia.com/wp-content/uploads/2019/02/show_turk.png" group-title="Ulusal",Show türk | g
+https://helga.iptv2022.com/show_turk/index.m3u8
+
+
+
+#EXTINF:0 CUID="516" tvg-name="Show max" group-title="Karışık kaynaklar",Show max
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star
+https://trn03.tulix.tv/gt-startv/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | a
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | b
+http://50.7.144.122:1935/livetv/startv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | c
+https://yayin2.canlitv.fun/livetv/startv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | d
+https://c.fulltvizle.com/star/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | e
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | f
+http://tna6.tulix.tv/live/83a4128e87fca734c959aa37b03c8a4d/6737a153/ovair1-starttv.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | g
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=opengraph
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/346_startv.jpg" group-title="Ulusal",Star | h
+http://66.160.192.241/startvturk/index.m3u8
+
+
+#EXTINF:0 CUID="33" tvg-name="Euro Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68Cmp7VbjledIRHpyA3haRpvrCOcE-_AlJQ&usqp=CAU" group-title="GinikoTv",Euro Star
+https://tgn.bozztv.com/trn03/gt-eurostar/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+https://helga.iptv2022.com/beyaz_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+https://yayin2.canlitv.fun/livetv/beyaztv.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+http://50.7.144.122:1935/livetv/beyaztv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+http://116.202.238.88/BEYAZTV_TR/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+https://tgn.bozztv.com/dvrfl05/gin-beyaztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OYyWb0CbV7moC0vMYSWR-IPv2m1qckuV8uYFhACjomW9lDj-h1LJb6lqIzAbJDlR4KY" group-title="Ulusal",Beyaztv | a
+https://trn03.tulix.tv/gt-beyaztv/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7
+https://trn03.tulix.tv/gt-kanal7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | a
+https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | b
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | c
+http://149.13.0.66:4003/kanal7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | d
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | e
+http://149.13.0.66:4003/kanal7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | f
+https://c.fulltvizle.com/kanal7/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | g
+https://tgn.bozztv.com/dvrfl05/gin-kanal7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",Kanal7 | h
+https://trn03.tulix.tv/gt-kanal7/index.m3u8
+
+
+#EXTINF:0 CUID="440" tvg-name="Kanal 7 eu" group-title="Karışık kaynaklar",Kanal 7 eu
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
